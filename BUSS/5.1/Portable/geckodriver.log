@@ -1,0 +1,17 @@
+1502341123238	geckodriver	INFO	Listening on 127.0.0.1:50606
+1502341125323	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1502341128923	Marionette	INFO	Listening on port 50612
+1502341129382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com.mx/maps/search/oxxo%2056565565656%20fhfsghdsgrg, line 2631: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.mx/maps/search/oxxo%2056565565656%20fhfsghdsgrg, line 2631: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com.mx/maps/search/oxxo%2056565565656%20fhfsghdsgrg, line 2631: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.mx/maps/search/oxxo%2056565565656%20fhfsghdsgrg, line 2631: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com.mx/maps/search/oxxo%2056565565656%20fhfsghdsgrg, line 2631: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.mx/maps/search/oxxo%2056565565656%20fhfsghdsgrg, line 2631: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com.mx/maps/search/oxxo%2056565565656%20fhfsghdsgrg, line 2631: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.mx/maps/search/oxxo%2056565565656%20fhfsghdsgrg, line 2631: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com.mx/maps/search/oxxo%2056565565656%20fhfsghdsgrg, line 2631: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.mx/maps/search/oxxo%2056565565656%20fhfsghdsgrg, line 2631: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.google.com.mx/maps/search/oxxo%2056565565656%20fhfsghdsgrg, line 2631: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com.mx/maps/search/oxxo%2056565565656%20fhfsghdsgrg, line 2631: Error: WebGL warning: texSubImage2D: This operation requires zeroing texture data. This is slow.
+1502341139971	Marionette	INFO	New connections will no longer be accepted

@@ -1,0 +1,3 @@
+Gracias por instalar Coordinator.
+Mozilla Firefox 54+ es necesario para que funcione correctamente.
+Consulta mas informacion en ayuda.

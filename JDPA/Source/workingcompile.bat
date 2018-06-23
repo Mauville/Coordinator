@@ -1,0 +1,1 @@
+pyinstaller -i C:\Users\Admin\Desktop\Coordinator\JDPA5.1\Source\logo.ico Coordinator.py

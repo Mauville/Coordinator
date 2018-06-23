@@ -1,0 +1,3 @@
+Bienvenido a Coordinator.
+Coordinator fue escrito con el propósito de facilitar la búsqueda de coordenadas de determinados establecimientos y su respectiva ubicación en un plano.
+Para lograr esto, Coordinator obtiene los datos de ubicación de los diversos establecimientos de un archivo, realiza una búsqueda en Google Maps y en caso exitoso obtiene las coordenadas del lugar y una fotografía del plano con el lugar señalado.

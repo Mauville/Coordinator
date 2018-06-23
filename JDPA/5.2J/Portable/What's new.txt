@@ -1,0 +1,21 @@
+Changelog:
+Ver 5.2
+
+	Added support for Timeouts
+
+Ver 5.1.2
+	
+	Se actualizo la informacion de README.txt para reflejar los datos actuales
+	Cambios cosmeticos menores
+
+Ver 5.1.1
+
+	Se actualizo el directorio de README.txt a CWD
+
+Ver 5.1
+
+	Coordinator ahora acepta archivos .csv cuyos delimitadores son ; en vez de , (Thanks Excel!)
+
+	Coordinator ahora no tiene dependecias en PATH (Guaranteed 100% Geckodriver free!). 
+		Esto resuelve muchos problemas a la hora de instalar y hace posible correr el programa de manera portatil. 
+		Tambien permite que el programa sea instalado en otro directorio al default
